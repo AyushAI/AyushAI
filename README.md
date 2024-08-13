@@ -1,5 +1,18 @@
 # Hey Champ!! Welcome to My Tech World!!
+
 <img src="./src/AYUSH_WASE.gif">
+
+&nbsp;&nbsp;&nbsp;
+
+<p align="center">
+  <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&random=false&width=445&lines=I+am+AYUSH+WASE%2C;A+data+analyst;passionate+about+transforming;data+into+insights;feel+free+to+connect+with+me">
+</p> 
+<p align = "center">
+	<img src = "https://profile-counter.glitch.me/{Ayush-Wase}/count.svg">
+<!-- 	<img src = "https://komarev.com/ghpvc/?username=Ayush-Wase"> -->
+</p>
+
+
 
 * 📊 Data Analyst with a Bachelor’s degree in Artificial Intelligence from [G. H. Raisoni College of Engineering](https://ghrce.raisoni.net/). I possess a robust foundation in statistical analysis, data visualization, database management, and business acumen, complemented by a knack for problem-solving and data storytelling.
 
@@ -12,6 +25,8 @@
 	
 
 Apart from coding, find me cycling, wondering nearby lake, in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
+
+
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/ayush-wase-a6a130208/">
@@ -35,10 +50,12 @@ Apart from coding, find me cycling, wondering nearby lake, in the gym or at my d
 </p>
 
 ---
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
+<img align="right" height="250" src = "https://media.giphy.com/media/JrpfevOVogixZYWp9O/source.gif">
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
