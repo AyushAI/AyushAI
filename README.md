@@ -1,15 +1,13 @@
-# Hey!! Great to see you here! 
+# Hey Champ!! Welcome to My Tech World!!
 <img src="./src/AYUSH_WASE.gif">
 
-* 📖 Currently pursuing my Bachelor Degree in Artificial Intelligence from [G. H. Raisoni College of Engineering](https://ghrce.raisoni.net/). 
+* 📊 Data Analyst with a Bachelor’s degree in Artificial Intelligence from [G. H. Raisoni College of Engineering](https://ghrce.raisoni.net/). I possess a robust foundation in statistical analysis, data visualization, database management, and business acumen, complemented by a knack for problem-solving and data storytelling.
 
-* 🎓 Aspiring Artificial Intelligence Engineer learning about different aspects of AI i.e Machine Learning , Computer Vision , Deep Learning , I visioned to create something of my own that would add meaning to people's life in some way as l believe Al will bring revolution to human kind in positive way...... 
+* 🔍 With a strong background in research, I have published four papers in academic conferences, underscoring my commitment to advancing the field of data analytics. My expertise extends to leveraging data to drive insights and inform decision-making, helping organizations transform raw data into actionable strategies. 
 
-* 🧑🏻‍💻 Python enthusiast, programmer & an artist. 
+* 📝 As a content creator on LinkedIn and a part-time professional trainer, I share knowledge on the latest trends in data analysis and visualization, contributing to the community by educating and inspiring others.
 
-* 💡 Always eager to learn new technologies , self learning is key to progress. 
-
-* 💻 Learning [Advance Python](https://www.python.org/).
+* 💡 Passionate about continuous learning and self-improvement, I stay at the forefront of technology and analytical methodologies to deliver innovative solutions and drive impactful results. 
 
 	
 
@@ -126,8 +124,3 @@ Apart from coding, find me cycling, wondering nearby lake, in the gym or at my d
 
 ---
 
-<p align="center">
-
-![snake gif](https://github.com/AyushAI/AyushAI/blob/output/github-contribution-grid-snake.gif)
-   
-</p>
