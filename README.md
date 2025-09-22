@@ -14,17 +14,14 @@
 
 
 
-* 📊 Data Analyst with a Bachelor’s degree in Artificial Intelligence from [G. H. Raisoni College of Engineering](https://ghrce.raisoni.net/). I possess a robust foundation in statistical analysis, data visualization, database management, and business acumen, complemented by a knack for problem-solving and data storytelling.
+* 📊  I’m a Generative AI Engineer with a Bachelor’s in Artificial Intelligence from G. H. Raisoni College of Engineering 🚀. I’m passionate about building smart solutions with gen AI, from large language models to data-driven decision tools. My love for statistical analysis 📊, data visualization 📈, and clever storytelling helps me turn raw numbers into real impact—whether I’m working on research, teaching, or tackling business challenges
 
-* 🔍 With a strong background in research, I have published four papers in academic conferences, underscoring my commitment to advancing the field of data analytics. My expertise extends to leveraging data to drive insights and inform decision-making, helping organizations transform raw data into actionable strategies. 
+* 🧠 I’ve published four research papers, always searching for new ways to push the boundaries in AI and analytics. When I’m not experimenting with the latest deep learning models, you’ll find me sharing insights on LinkedIn 🌐 or training up-and-coming talent 💡 in the art of data storytelling and generative AI
 
-* 📝 As a content creator on LinkedIn and a part-time professional trainer, I share knowledge on the latest trends in data analysis and visualization, contributing to the community by educating and inspiring others.
-
-* 💡 Passionate about continuous learning and self-improvement, I stay at the forefront of technology and analytical methodologies to deliver innovative solutions and drive impactful results. 
-
+* 📝 Always curious and fueled by caffeine ☕, I keep learning and leveling up my skills. I thrive on innovation and love bringing fresh ideas to life, helping teams unlock the real power of data and AI 🚀.
 	
 
-Apart from coding, find me cycling, wondering nearby lake, in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
+Apart from coding, find me cycling, reading books, wondering nearby nature, in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
 
 
 
